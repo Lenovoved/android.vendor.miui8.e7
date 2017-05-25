@@ -1,3 +1,8 @@
+KeyMaper.apk cloak to activate the touch buttons.
+At the first start of the firmware it is necessary:
+-Set into settings-Special features-Activate the service
+-Return to the desktop, launch the application, block whatever it is unloaded from the background
+
 Patchrom
 ===========
 
